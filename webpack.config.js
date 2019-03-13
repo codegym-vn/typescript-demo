@@ -93,7 +93,7 @@ const config = {
     rules: [
       {
         test: /\.ts?$/,
-        exclude: ["node_modules"],
+        exclude: /node_modules/,
         use: ["awesome-typescript-loader", "source-map-loader"]
       },
       { test: /\.html$/, loader: "html-loader" },
