@@ -19,7 +19,7 @@
     "@types/node": "^10.9.2",
     "awesome-typescript-loader": "^5.2.0",
     "cross-env": "^5.0.1",
-    "css-loader": "^1.0.0",
+    "css-loader": "^6.7.3",
     "ejs-loader": "^0.3.0",
     "eslint": "^5.4.0",
     "html-loader": "^0.5.5",
